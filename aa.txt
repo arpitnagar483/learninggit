@@ -9,7 +9,7 @@ next commit
 commit
 commit
 commit
-new commit
+new commit1212
 update file
 new change
 new line added
